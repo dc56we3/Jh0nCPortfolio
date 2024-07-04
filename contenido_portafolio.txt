@@ -1,0 +1,23 @@
+Perfil
+
+nombre
+pseudonimo
+nivel del titulo
+breve descripcion
+descarga de cv
+
+
+Informacion
+
+educacion
+experiencia
+trabajos
+
+
+Contacto
+
+numero directo
+correo
+perfil de googledev
+linkedin
+github
